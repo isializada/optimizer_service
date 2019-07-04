@@ -10,7 +10,7 @@ There are Senior and Junior Cleaners who will send to structure for clean but th
 ### How is works?
 
 REST API has a endpoint for find optimal number of employees.
-After run application you can sent request to following endpoint.
+After run application you can send request to following endpoint.
 
 **POST: http://localhost:8082/optimize/v0.1/cleaning/findOptimalNumbers**
 
