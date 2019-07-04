@@ -1,0 +1,12 @@
+spring:
+    application:
+        name:optimizer
+
+application:
+    version: v0.1
+
+server:
+    port: 8082
+    servlet:
+        context-path: /optimize/${application.version}
+
